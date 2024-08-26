@@ -2,6 +2,8 @@
 # Helm
 
 ## Helm 템플릿 작성 가이드 
+v3.14.0  
+https://helm.sh/docs/chart_template_guide/getting_started/
   
 ### 기본 개념
 - helm은 helm은 template 디렉토리 내부의 파일들을 기반으로 release의 manifest를 불러오고 설치한다.
